@@ -1,0 +1,435 @@
+PARTY,MAIL_NAME,STREET_ADDRESS,TEXT_RES_CITY,CDE_RES_STATE,TEXT_RES_ZIP5,AGE
+O,Amy Griffin,36   Haley Circle   ,Conway,AR,72032,48
+O,Tammy McNair,59   Overland Park Road   ,Vilonia,AR,72173,54
+O,Jeffery McNair,59   Overland Park Road   ,Vilonia,AR,72173,53
+O,Helen Sublett,156   Leslie Road   ,Conway,AR,72032,91
+O,Imogene Pearce,371   Middle Road   ,Conway,AR,72032,88
+O,Roger Spruiell,286   Saltillo Road   ,Conway,AR,72032,79
+O,Bobby Rowe,4   Jennifer Lane   ,Conway,AR,72032,84
+O,Loyd Kelley,36   Bud Chuck Lane   ,Conway,AR,72032,73
+O,Roger Martin,19   Martin Lane   ,Conway,AR,72032,71
+O,Sheila Pruett,95   Pruett Road   ,Conway,AR,72032,70
+O,William Pruett,95   Pruett Road   ,Conway,AR,72032,73
+O,Joe Sanders,73   Oak Bowery Road   ,Conway,AR,72032,70
+O,Mary Shannon,424   Rocky Point Road   ,Vilonia,AR,72173,68
+O,Vickie James,671   Rocky Point Road   ,Conway,AR,72032,73
+O,Judy Kelley,19   Tower Road   ,Conway,AR,72032,72
+O,Angela Hazel,472   Saltillo Road   ,Conway,AR,72032,68
+O,Charles Evatt,512   Rocky Point Road   ,Conway,AR,72032,71
+O,Sandra Evatt,512   Rocky Point Road   ,Conway,AR,72032,68
+O,J Pearce,86   Leslie Road   ,Conway,AR,72032,81
+O,Ronnie Kelley,19   Tower Road   ,Conway,AR,72032,74
+O,Larry James,671   Rocky Point Road   ,Conway,AR,72032,77
+O,Irma Harris,51   Bush Road   ,Conway,AR,72032,75
+O,Rosa Roberts,49   Grand Trunk Road   ,Conway,AR,72032,77
+O,Donald Sorensen,74   Rolling Manor Drive   ,Conway,AR,72032,76
+O,Marcus Massey,62   Pruett Road   ,Conway,AR,72032,77
+O,Janice Massey,62   Pruett Road   ,Conway,AR,72032,76
+O,Gary Hensley,728   Otto Road   ,Conway,AR,72032,76
+O,Ricky Pruett,79   Pruett Road   ,Conway,AR,72032,68
+O,Linda Martin,19   Martin Lane   ,Conway,AR,72032,66
+O,Stephen Simon,41   Bud Chuck Lane   ,Conway,AR,72032,71
+O,William Gwatney,485   Beryl Road   ,Vilonia,AR,72173,64
+O,William Dickson,20   New Liberty Road   ,Conway,AR,72032,74
+O,Mike West,21   Clinton Road   ,Conway,AR,72032,62
+O,Barbara Sanders,73   Oak Bowery Road   ,Conway,AR,72032,64
+O,Todd Smithhart,216   Saltillo Road   ,Conway,AR,72032,60
+O,James Couch,50   Haley Circle   ,Conway,AR,72032,64
+O,Amy West,38 A  Rainwater Cove   ,Vilonia,AR,72173,69
+O,Jesse Pruett,149   Pruett Road   ,Conway,AR,72032,75
+O,Joyce Lafountaine,146   Billy Goat Mountain Road   ,Vilonia,AR,72173,73
+O,Robert West,38 A  Rainwater Cove   ,Vilonia,AR,72173,73
+O,Alfred Daves,96   Daves Farm Road   ,Conway,AR,72032,60
+R,Clifford Williford,11   Bush Road   ,Conway,AR,72032,67
+O,Eddie Smith,37   Oak Tree Circle   ,Conway,AR,72032,66
+O,Betty Baxter,669   Otto Road   ,Conway,AR,72032,71
+O,Martha Coker,581   Hwy 286  E  ,Conway,AR,72032,68
+O,Jeffrey Jackson,42   Herring Lane   ,Conway,AR,72032,61
+O,William Fulmer,304   Otto Road   ,Vilonia,AR,72173,77
+O,Pamela Thomas,357   Middle Road   ,Conway,AR,72032,68
+O,Sonja Burton Healy,185   Saltillo Road   ,Conway,AR,72032,67
+O,Stephen Garrett,126   Grand Trunk Road   ,Conway,AR,72032,72
+O,Dennis Delong,221   Stone Mountain Road   ,Conway,AR,72032,65
+O,Ernest Gault,16   Rolling Manor Drive   ,Conway,AR,72032,82
+O,Janet Garrett,126   Grand Trunk Road   ,Conway,AR,72032,72
+O,Donna Kelley,15   Pug Lane   ,Conway,AR,72032,60
+O,Cynthia Smith,293   Otto Road   ,Vilonia,AR,72173,66
+O,Sandra Pruett,149   Pruett Road   ,Conway,AR,72032,73
+O,James Luck,23   Overland Park Road   ,Vilonia,AR,72173,59
+O,Kelly Nesmith,21   Rooster Road   ,Conway,AR,72032,65
+O,Romaine Mcdaniel,23   Autumnbrook Lane   ,Conway,AR,72032,69
+O,Georgia Ross,694   Rocky Point Road   ,Conway,AR,72032,61
+O,Phyllis Tindall,511   Rocky Point Road   ,Conway,AR,72032,72
+O,Debra Kelley,36   Bud Chuck Lane   ,Conway,AR,72032,70
+O,Timothy Nolan,36   Martin Lane   ,Conway,AR,72032,64
+O,Sandra Dickson,20   New Liberty Road   ,Conway,AR,72032,72
+O,Timothy Hess,202   Clinton Road   ,Conway,AR,72032,67
+O,Otis Reed,31   Allen Drive   ,Vilonia,AR,72173,64
+O,Darrell Brown,5   Brown Drive   ,Conway,AR,72032,89
+O,Lavonne Brown,5   Brown Drive   ,Conway,AR,72032,85
+O,Thomas Baxter,669   Otto Road   ,Conway,AR,72032,71
+O,Janette Clements,6   Clements Hill Road   ,Vilonia,AR,72173,60
+O,Dicky Shannon,424   Rocky Point Road   ,Vilonia,AR,72173,71
+O,Roy Schichtl,569   Hwy 286  E  ,Conway,AR,72032,77
+O,Tamara Goodin,214   Otto Road   ,Vilonia,AR,72173,65
+O,Stanley Stapleton,908   Otto Road   ,Conway,AR,72032,60
+O,Donna Brantley,30   Foxmoor Circle   ,Conway,AR,72032,60
+O,Toni Nolan,36   Martin Lane   ,Conway,AR,72032,57
+O,Brenda Vestal,540   Hwy 286  E  ,Conway,AR,72032,66
+O,Kenny Vestal,540   Hwy 286  E  ,Conway,AR,72032,64
+O,Abbie Douglas,47   Aztec Drive   ,Conway,AR,72032,74
+O,Alann Motley,85   Otto Road   ,Vilonia,AR,72173,70
+O,Iva Gault,16   Rolling Manor Drive   ,Conway,AR,72032,71
+O,Michael Roberts,49 A  Grand Trunk Road   ,Conway,AR,72032,45
+O,John Fletcher,44   Winding Branch Lane   ,Conway,AR,72032,61
+O,Judith Ware,88   Shawnee Drive   ,Conway,AR,72032,50
+O,Larry Bonnema,20   Rainwater Cove   ,Vilonia,AR,72173,71
+O,Delmond Bliss,32   Foxmoor Circle   ,Conway,AR,72032,91
+O,Carol Bliss,32   Foxmoor Circle   ,Conway,AR,72032,85
+O,Donnie Saxton,16   Hanford Lane   ,Conway,AR,72032,50
+O,Rita Rayburn,145   Grand Trunk Road   ,Conway,AR,72032,64
+O,Lenora Cockrell,60   Shawnee Drive   ,Conway,AR,72032,83
+O,Daniel Rayburn,145   Grand Trunk Road   ,Conway,AR,72032,66
+O,Lisa Evans,535   Hwy 286  E  ,Conway,AR,72032,45
+O,Heath Thessing,280   Saltillo Road   ,Conway,AR,72032,51
+O,Sean Barber,25   Bud Chuck Lane   ,Conway,AR,72032,52
+O,Regina Jones,137   Otto Road   ,Vilonia,AR,72173,62
+O,Kerry Tate,27   Roller Coaster Road   ,Vilonia,AR,72173,67
+O,Douglas Jones,137   Otto Road   ,Vilonia,AR,72173,62
+O,Michelle Haygood,47   Haley Circle   ,Conway,AR,72032,58
+O,Danna Weaver,10   Stapleton Place   ,Conway,AR,72032,65
+O,Deanna Morphew,50   Bitter Creek Road   ,Conway,AR,72032,71
+O,Albert Farrior,5   Judy Lane   ,Conway,AR,72032,52
+O,Robert Riley,137 A  Clinton Road   ,Conway,AR,72032,61
+O,Kitty Waldon,6   Billy Goat Mountain Road   ,Vilonia,AR,72173,69
+O,Tammy Barron,442   Rocky Point Road   ,Vilonia,AR,72173,49
+O,Charles Swaffar,729   Otto Road   ,Conway,AR,72032,46
+O,Bonnie Gray,216   Otto Road  Apt A,Vilonia,AR,72173,62
+O,Lori Robbins,39   Haley Circle   ,Conway,AR,72032,59
+O,Tammy Grissom,196   Tower Road   ,Conway,AR,72032,60
+O,Patricia Clayton,4   Patty Lane   ,Conway,AR,72032,85
+R,David Hughes,73   Rainwater Cove   ,Vilonia,AR,72173,58
+O,Gregory Woodward,1   Autumnbrook Lane   ,Conway,AR,72032,58
+O,Sherry Resecker,26   Billy Goat Mountain Road   ,Vilonia,AR,72173,71
+O,Lynda Wallace,356   Rocky Point Road   ,Vilonia,AR,72173,82
+O,Michael Clark,705   Rocky Point Road   ,Conway,AR,72032,56
+O,Charlotte Simon,41   Bud Chuck Lane   ,Conway,AR,72032,67
+O,Ruby Wooley,38   Fortson Road   ,Vilonia,AR,72173,84
+O,Charles Wooley,38   Fortson Road   ,Vilonia,AR,72173,71
+O,Roberta Nesdahl,22   Hanford Lane   ,Conway,AR,72032,74
+O,John Evans,535   Hwy 286  E  ,Conway,AR,72032,53
+O,Arthur Wallace,356   Rocky Point Road   ,Vilonia,AR,72173,83
+O,Peggy Knight,21   Rainwater Cove   ,Vilonia,AR,72173,69
+R,Alvy Knight,21 B  Rainwater Cove   ,Vilonia,AR,72173,70
+O,Gloria Yarbrough,570   Hwy 286  E  ,Conway,AR,72032,68
+O,Kimberly Mitchell,268   Saltillo Road   ,Conway,AR,72032,61
+O,Jerald Saxton,16   Hanford Lane   ,Conway,AR,72032,75
+O,Meryl Fulmer,18   Indianhead Drive   ,Conway,AR,72032,66
+O,Vanessa Lawrence,181   Saltillo Road   ,Conway,AR,72032,43
+O,Bart Thessing,280   Saltillo Road   ,Conway,AR,72032,43
+O,Lonnie Martin,19   Martin Lane   ,Conway,AR,72032,43
+O,Sherry Hancock,605   Otto Road   ,Conway,AR,72032,72
+O,Edna Simpson,25   Palin Lane   ,Vilonia,AR,72173,85
+O,Khalid Shaikh,130   Leslie Road   ,Conway,AR,72032,71
+O,Bernard Simpson,25   Palin Lane   ,Vilonia,AR,72173,86
+O,Rebecca Spooner,165   Pruett Road   ,Conway,AR,72032,56
+O,Shirley Pledger,21   Iroquois Lane   ,Conway,AR,72032,68
+O,Jerry Pledger,21   Iroquois Lane   ,Conway,AR,72032,69
+O,Nancy Shaikh,130   Leslie Road   ,Conway,AR,72032,67
+O,Donald Fulmer,35   Foxmoor Circle   ,Conway,AR,72032,63
+D,Dennis Finnigan,920   Otto Road   ,Conway,AR,72032,72
+O,Daniel Mccullough,43   Hauser Lane   ,Vilonia,AR,72173,67
+O,Robert McCammon,573   Otto Road   ,Conway,AR,72032,64
+O,John Fortenberry,61   Saltillo Road   ,Conway,AR,72032,79
+O,Joseph Gibson,1   Kiwi Lane   ,Conway,AR,72032,42
+O,Sandra Mccullough,43   Hauser Lane   ,Vilonia,AR,72173,62
+O,Zackary Parker,410   Rocky Point Road   ,Vilonia,AR,72173,41
+O,Valerie Poole,545   Hwy 286  E  ,Conway,AR,72032,64
+O,Dennis Schnebelen,10   Indianhead Drive   ,Conway,AR,72032,64
+O,Penny Hinson,210  S Coker Road   ,Vilonia,AR,72173,59
+O,Steven Suttles,2   Audubon Drive   ,Conway,AR,72032,49
+O,John Brown,49   Aurora Lane   ,Vilonia,AR,72173,50
+O,Scott Lang,99   Overland Park Road   ,Vilonia,AR,72173,41
+O,Susan Mahan,17   Bud Chuck Lane   ,Conway,AR,72032,44
+O,Norma Laughlin,4   Foxmoor Circle   ,Conway,AR,72032,72
+O,Ashley Nilssen,149   Pruett Road  Unit A,Conway,AR,72032,44
+O,Cheryl Schnebelen,10   Indianhead Drive   ,Conway,AR,72032,64
+O,Chad Pruett,88   Pruett Road   ,Conway,AR,72032,42
+O,Rebecca Johnson,254   Rocky Point Road   ,Vilonia,AR,72173,60
+O,Suzanne Banduric-Pearson,20   Finch Drive   ,Conway,AR,72032,63
+O,Darlene Hertz,547   Rocky Point Road   ,Conway,AR,72032,87
+O,Kenneth Harvey,2   Indianhead Drive   ,Conway,AR,72032,71
+O,Kari Langley,18   Foxmoor Circle   ,Conway,AR,72032,54
+O,Larry Johnson,254   Rocky Point Road   ,Vilonia,AR,72173,58
+O,Mark Heffington,74   Daves Farm Road   ,Conway,AR,72032,42
+O,Patricia Keeton,96   Aztec Drive   ,Conway,AR,72032,71
+O,Ashley Sanders,8   Clinton Road   ,Conway,AR,72032,41
+O,Tracey Barron,442   Rocky Point Road   ,Vilonia,AR,72173,50
+O,Kristin Heffington,74   Daves Farm Road   ,Conway,AR,72032,41
+O,Samuel Bartlett,16   Molly Drive   ,Conway,AR,72032,41
+O,Robert Payne,35   Aurora Lane   ,Vilonia,AR,72173,51
+O,Patricia Gill,328   Beryl Road   ,Conway,AR,72032,60
+O,Alice West,38   Rainwater Cove   ,Vilonia,AR,72173,40
+O,Anna Justice,143   Otto Road   ,Vilonia,AR,72173,87
+O,Linda Mons,530   Otto Road   ,Conway,AR,72032,40
+O,Ann Payne,35   Aurora Lane   ,Vilonia,AR,72173,52
+O,Anita Herring,63   Grand Trunk Road   ,Conway,AR,72032,55
+O,Robert Herring,63   Grand Trunk Road   ,Conway,AR,72032,57
+O,Timothy Mcmahan,220   Clinton Road   ,Conway,AR,72032,41
+R,Joseph Sexson,529   Beryl Road   ,Vilonia,AR,72173,44
+O,Travis Donaho,43   Crooked Creek Road   ,Conway,AR,72032,50
+O,Malanya Donaho,43   Crooked Creek Road   ,Conway,AR,72032,47
+O,Kimberly Gates,72   Pruett Road   ,Conway,AR,72032,52
+O,Naomi Sexson,529   Beryl Road   ,Vilonia,AR,72173,42
+O,Dustin Mathis,236   Clinton Road   ,Conway,AR,72032,43
+O,April Mathis,37   Oak Tree Circle   ,Conway,AR,72032,40
+O,Amy Fortner,57   Bush Road   ,Conway,AR,72032,40
+O,Jimmie Jackson,10  W Papaya Cove   ,Conway,AR,72032,62
+O,Gerard Martin,33   Bush Road   ,Conway,AR,72032,44
+O,Carl Laughlin,4   Foxmoor Circle   ,Conway,AR,72032,74
+O,Jody Rodgers,195   Beryl Road   ,Conway,AR,72032,55
+O,Jerry Jackson,10  W Papaya Cove   ,Conway,AR,72032,69
+O,Teresa Shrum,51   Aztec Drive   ,Conway,AR,72032,62
+O,Matthew Shrum,51   Aztec Drive   ,Conway,AR,72032,47
+O,Deborah Janisko,2   Ponderosa Drive   ,Conway,AR,72032,64
+O,Sharon Denham,38   Overland Park Road   ,Vilonia,AR,72173,70
+O,Crystal Hatfield,64   Shawnee Drive   ,Conway,AR,72032,54
+O,Wallace Poole,545   Hwy 286  E  ,Conway,AR,72032,65
+O,Dewayne Hall,22   Bud Chuck Lane   ,Conway,AR,72032,59
+O,Mary Gibson,1   Kiwi Lane   ,Conway,AR,72032,38
+O,Peggy Donaho,43   Crooked Creek Road   ,Conway,AR,72032,72
+O,Donald Denham,38   Overland Park Road   ,Vilonia,AR,72173,68
+O,John Bryan,156   Grand Trunk Road   ,Conway,AR,72032,37
+O,Craig Anderson,79   Winding Branch Lane   ,Conway,AR,72032,55
+O,Edwin Hancock,605   Otto Road   ,Conway,AR,72032,75
+O,Barbara Matchett,65   Matthews Lane   ,Conway,AR,72032,79
+O,Sachiko Mcgoldrick,185   Billy Goat Mountain Road   ,Vilonia,AR,72173,85
+O,Sylvia Ranson,164   Billy Goat Mountain Road   ,Vilonia,AR,72173,74
+O,James Gibbs,75   Billy Goat Mountain Road   ,Vilonia,AR,72173,72
+O,Allene Gibbs,75   Billy Goat Mountain Road   ,Vilonia,AR,72173,72
+O,Debra Childers,209  W Lewisburg Road   ,Vilonia,AR,72173,64
+O,Bruce Glover,24   Patty Lane   ,Conway,AR,72032,72
+O,Jonathan Hillman,11   Tecumseh Lane   ,Conway,AR,72032,52
+O,Thomas Lord,2   Gerik Lane   ,Conway,AR,72032,76
+O,Steven Black,513   Beryl Road   ,Vilonia,AR,72173,68
+O,Holly Bartlett,16   Molly Drive   ,Conway,AR,72032,38
+O,Harold Keeton,96   Aztec Drive   ,Conway,AR,72032,75
+O,Michael Lee,65   Pruett Road   ,Conway,AR,72032,38
+O,Scott Sanders,8   Clinton Road   ,Conway,AR,72032,40
+O,Joshua Fortner,57   Bush Road   ,Conway,AR,72032,42
+O,Honey Hall,22   Bud Chuck Lane   ,Conway,AR,72032,57
+O,Sadako Shimabukuro,140   Billy Goat Mountain Road   ,Vilonia,AR,72173,73
+O,Shane Brady,302   Rocky Point Road   ,Vilonia,AR,72173,53
+O,Ric Mccoy,453   Saltillo Road   ,Conway,AR,72032,56
+O,Violet Ballentine,191   Stone Mountain Road   ,Conway,AR,72032,82
+O,Joyce Tinnin,7   Moran Drive   ,Conway,AR,72032,71
+O,Cindy Reynolds,90   Billy Goat Mountain Road   ,Vilonia,AR,72173,60
+O,Larone Lowe,76   Haley Circle   ,Conway,AR,72032,58
+O,Daryl Reynolds,90   Billy Goat Mountain Road   ,Vilonia,AR,72173,65
+O,Kimberly Balentine,501   Beryl Road   ,Vilonia,AR,72173,60
+O,Susan Welter,6   Foxmoor Circle   ,Conway,AR,72032,69
+O,Donna Fortenberry,61   Saltillo Road   ,Conway,AR,72032,79
+O,Gina Lowe,76   Haley Circle   ,Conway,AR,72032,55
+O,Tommy Balentine,501   Beryl Road   ,Vilonia,AR,72173,58
+O,Jack Nesmith,21   Rooster Road   ,Conway,AR,72032,64
+O,William Shock,56   Bud Chuck Lane   ,Conway,AR,72032,50
+O,Steven Steelman,95   Overland Park Road   ,Vilonia,AR,72173,56
+O,Amanda Neal,288   Tower Road   ,Conway,AR,72032,51
+O,Patricia Anthony,28   Autumnbrook Lane   ,Conway,AR,72032,68
+O,Susan Dickson,18   New Liberty Road   ,Conway,AR,72032,53
+O,Bruce Brantley,30   Foxmoor Circle   ,Conway,AR,72032,60
+O,Jimmy Pittman,515   Rocky Point Road   ,Conway,AR,72032,59
+O,James Mooney,80   Oak Tree Circle   ,Conway,AR,72032,60
+O,Buford McGehee,39   Bitter Creek Road   ,Conway,AR,72032,71
+O,Judy Mooney,80   Oak Tree Circle   ,Conway,AR,72032,59
+O,Lonnie Freeman,277  S Mt Olive Road   ,Vilonia,AR,72173,57
+O,Mary Freeman,277  S Mt Olive Road   ,Vilonia,AR,72173,59
+O,William Dickson,18   New Liberty Road   ,Conway,AR,72032,53
+O,Patricia Riley,137   Clinton Road  Unit A,Conway,AR,72032,59
+O,Janet Fitzsimmons,154   Leslie Road   ,Conway,AR,72032,72
+O,Shelly Carpenter,279  W Lewisburg Road   ,Vilonia,AR,72173,49
+O,Linda Mayor,856   Otto Road   ,Conway,AR,72032,77
+O,Jolene Sanders,43   Martin Lane   ,Conway,AR,72032,66
+O,Kimberly Shock,56   Bud Chuck Lane   ,Conway,AR,72032,52
+O,Gloria Stapleton,11   Palarm Creek Road  Unit B,Conway,AR,72032,80
+O,Kimberly Jackson,42   Herring Lane   ,Conway,AR,72032,56
+O,Tommy Mayor,856   Otto Road   ,Conway,AR,72032,80
+O,Lori Duke,25   Tower Road   ,Conway,AR,72032,51
+O,Bobby Matchett,65   Matthews Lane   ,Conway,AR,72032,86
+O,Lance Lawrence,181   Saltillo Road   ,Conway,AR,72032,49
+O,Leanna Clark,725   Rocky Point Road   ,Conway,AR,72032,71
+O,Matthew West,38   Rainwater Cove   ,Vilonia,AR,72173,47
+O,Becky Farrior,5   Judy Lane   ,Conway,AR,72032,47
+O,Mary McGehee,39   Bitter Creek Road   ,Conway,AR,72032,73
+O,Betty Motley,85   Otto Road   ,Vilonia,AR,72173,65
+O,Larry Martin,24   Martin Lane   ,Conway,AR,72032,79
+O,Jimmy Stapleton,558   Hwy 286  E  ,Conway,AR,72032,96
+O,Dymple Stapleton,558   Hwy 286  E  ,Conway,AR,72032,94
+O,Bobby Burrows,2   Ponderosa Drive   ,Conway,AR,72032,50
+O,James Gwatney,499   Beryl Road   ,Vilonia,AR,72173,52
+O,Delila Reed,31   Allen Drive   ,Vilonia,AR,72173,66
+O,Mark Samuelson,553   Rocky Point Road   ,Conway,AR,72032,64
+O,Tina Stapleton,908   Otto Road   ,Conway,AR,72032,56
+O,Douglas Latch,129   Stone Mountain Road   ,Conway,AR,72032,70
+O,Susan Mccoy,453   Saltillo Road   ,Conway,AR,72032,54
+O,Melissa Jerrell,12   Meadows Crossing    ,Conway,AR,72032,59
+O,Regina Woodward,1   Autumnbrook Lane   ,Conway,AR,72032,53
+O,Kathryn Stransky,259   Rocky Point Road   ,Vilonia,AR,72173,61
+O,Richard Lynch,420   Rocky Point Road   ,Vilonia,AR,72173,51
+O,Joseph Simon,12   Tower Road   ,Conway,AR,72032,56
+O,Richard Stransky,259   Rocky Point Road   ,Vilonia,AR,72173,60
+O,Leonard Neal,67   Stone Mountain Drive   ,Conway,AR,72032,75
+O,Kathy Lewis,16   Gerob Drive   ,Conway,AR,72032,70
+O,Stacy Fuller,4   Oak Tree Circle   ,Conway,AR,72032,41
+O,Erika Durkin,58 A  Stone Mountain Drive   ,Conway,AR,72032,44
+O,James Turner,19   Bud Chuck Lane   ,Conway,AR,72032,92
+O,Jessica Alanis,4   Aurora Lane   ,Vilonia,AR,72173,39
+R,Debra Deaton,18   Grand Trunk Road   ,Conway,AR,72032,63
+O,James Starzy,8   Matthews Lane   ,Conway,AR,72032,76
+O,Virginia Starzy,8   Matthews Lane   ,Conway,AR,72032,75
+D,John Ables,52   Leslie Road   ,Conway,AR,72032,52
+O,Eric Nelson,52   Rainwater Cove   ,Vilonia,AR,72173,54
+O,Kenda Latina,35   Stone Mountain Drive   ,Conway,AR,72032,54
+O,David Larson,27   Fortune Lane   ,Conway,AR,72032,54
+O,Marcus Miller,49   Pocahontas Court   ,Conway,AR,72032,44
+R,Cari Williford,11   Bush Road   ,Conway,AR,72032,47
+O,Christopher Boudreaux,543   Beryl Road   ,Vilonia,AR,72173,60
+O,Kenneth Welcher,3  E Papaya Cove   ,Conway,AR,72032,61
+O,Vivian Boudreaux,543   Beryl Road   ,Vilonia,AR,72173,64
+O,Bryan Gray,26   Oak Tree Circle   ,Conway,AR,72032,63
+O,Rebecca Gray,26   Oak Tree Circle   ,Conway,AR,72032,63
+O,Jacqueline Harvey,2   Indianhead Drive   ,Conway,AR,72032,70
+O,James McMillan,20   Black Ranch Road   ,Conway,AR,72032,77
+O,Harold Sutherland,207   Clinton Road   ,Conway,AR,72032,71
+O,Andrew Block,8   Sioux Cove   ,Conway,AR,72032,93
+O,Jimmie Osborne,25   Stone Mountain Road   ,Conway,AR,72032,78
+O,George Kyzer,244   Saltillo Road   ,Conway,AR,72032,68
+O,Frances Block,8   Sioux Cove   ,Conway,AR,72032,59
+O,James Hill,71   Billy Goat Mountain Road   ,Vilonia,AR,72173,67
+R,Ruebel Holmes,11   Bud Chuck Lane   ,Conway,AR,72032,59
+O,Jarla Collier,169   Clinton Road   ,Conway,AR,72032,75
+O,Jill Miller,49   Pocahontas Court   ,Conway,AR,72032,51
+O,Craig Dewey,79   Pruett Road   ,Conway,AR,72032,40
+R,Stephanie Ivy,81   Rolling Manor Drive   ,Conway,AR,72032,51
+O,Rhonda Carson,18   Oak Tree Circle   ,Conway,AR,72032,65
+O,Vicki Robinson,26   Overland Park Road   ,Vilonia,AR,72173,43
+O,Andrea Scallion,917   Otto Road   ,Conway,AR,72032,68
+O,Landon Humphrey,7   Oak Tree Circle   ,Conway,AR,72032,45
+O,Judith Young,48   Grand Trunk Road   ,Conway,AR,72032,49
+O,Michael Mathis,28   Aurora Lane   ,Vilonia,AR,72173,51
+O,Matthew Jerrell,12   Meadows Crossing    ,Conway,AR,72032,49
+O,Lela Ogle,235   Otto Road   ,Vilonia,AR,72173,80
+O,Joseph Taylor,169   Clinton Road  Unit B,Conway,AR,72032,45
+O,James Ogle,235   Otto Road   ,Vilonia,AR,72173,89
+O,John Dobbs,118   Stone Mountain Road   ,Conway,AR,72032,70
+O,Joanne Dobbs,118   Stone Mountain Road   ,Conway,AR,72032,69
+O,Susan Jobe,34   Oak Tree Circle   ,Conway,AR,72032,51
+O,Darryl Jobe,34   Oak Tree Circle   ,Conway,AR,72032,58
+O,James Myers,1   Pocahontas Court   ,Conway,AR,72032,75
+O,Jimmy Bartlett,37   Fortson Road   ,Vilonia,AR,72173,67
+R,Laura Melton,14   Matthews Lane   ,Conway,AR,72032,39
+R,Darlene Myers,1   Pocahontas Court   ,Conway,AR,72032,65
+O,Tony Terral,57   Shawnee Drive   ,Conway,AR,72032,73
+O,Dennis King,39   Hauser Lane   ,Vilonia,AR,72173,84
+O,Joann King,39   Hauser Lane   ,Vilonia,AR,72173,77
+O,Troy Pierce,41   Bitter Creek Road   ,Conway,AR,72032,64
+O,Mary Ringo,38   Chippewa Trail   ,Conway,AR,72032,74
+O,Sherry Terral,57   Shawnee Drive   ,Conway,AR,72032,77
+O,Thomas Godwin,85   Rolling Manor Drive   ,Conway,AR,72032,65
+O,Nelda Godwin,85   Rolling Manor Drive   ,Conway,AR,72032,71
+O,Jimmy Young,48   Grand Trunk Road   ,Conway,AR,72032,41
+O,Lauren Lee,65   Pruett Road   ,Conway,AR,72032,36
+O,Thomas Latina,35   Stone Mountain Drive   ,Conway,AR,72032,62
+O,Carol Shirley,207   Beryl Road   ,Conway,AR,72032,61
+O,Jeffery Fulmer,310   Otto Road   ,Vilonia,AR,72173,55
+O,Daniel Blackburn,207   Beryl Road   ,Conway,AR,72032,42
+O,Michael Medler,195   Beryl Road   ,Conway,AR,72032,52
+D,Linda Smith,18   Haley Circle   ,Conway,AR,72032,61
+O,Bryant Anderson,26   Grand Trunk Road   ,Conway,AR,72032,53
+O,Raymond Selken,18   Fortson Road   ,Vilonia,AR,72173,54
+O,Brenda Corkran,889   Otto Road   ,Conway,AR,72032,66
+O,Jimmy Corkran,889   Otto Road   ,Conway,AR,72032,66
+R,Raymond Dehaan,45   Oak Tree Circle   ,Conway,AR,72032,43
+O,Jennifer DeHaan,45   Oak Tree Circle   ,Conway,AR,72032,40
+O,Kevin West,45   Tower Road   ,Conway,AR,72032,38
+O,Greg Mills,634   Rocky Point Road   ,Conway,AR,72032,73
+O,Ricky Kelley,38   Oak Bowery Road   ,Conway,AR,72032,70
+O,William Cheek,27 A  Fortune Lane   ,Conway,AR,72032,66
+O,Pamela Lloyd,79   Rainwater Cove   ,Vilonia,AR,72173,69
+R,Judith Burger,61   Country Meadows Lane   ,Conway,AR,72032,81
+R,Thomas Burger,61   Country Meadows Lane   ,Conway,AR,72032,83
+O,Rhoda Walker,73   Stone Mountain Drive   ,Conway,AR,72032,65
+O,Dustin West,27   Clinton Road   ,Conway,AR,72032,36
+O,James Alexander,81   Herring Lane  Unit A,Conway,AR,72032,45
+O,Jackie Alexander,81   Herring Lane  Unit A,Conway,AR,72032,45
+O,Patsy Moore,29   Oak Tree Circle   ,Conway,AR,72032,74
+O,Rebecca Camp,433   Saltillo Road   ,Conway,AR,72032,59
+O,Maggie Martin,45   Pocahontas Court   ,Conway,AR,72032,68
+O,Laura Dumas,17   Hiawatha Lane   ,Conway,AR,72032,34
+O,Judy Hughes,73   Rainwater Cove   ,Vilonia,AR,72173,57
+O,Sarah Knight,21 B  Rainwater Cove   ,Vilonia,AR,72173,36
+O,Deborah Abbott,4 -2  Gerik Lane   ,Conway,AR,72032,58
+O,Claire Bussey,25   Oak Tree Circle   ,Conway,AR,72032,33
+O,William Ringo,38   Chippewa Trail   ,Conway,AR,72032,80
+O,Catherine Osborne,25   Stone Mountain Road   ,Conway,AR,72032,65
+O,Ruth Haile,29   Iroquois Lane   ,Conway,AR,72032,59
+O,Dwight Mitchell,43   Oak Tree Circle   ,Conway,AR,72032,75
+O,Shemecka Miller McGhee,24   Oak Tree Circle   ,Conway,AR,72032,43
+O,Mallory Thessing,6   Meadows Crossing    ,Conway,AR,72032,33
+O,Jessica Mathis,236   Clinton Road   ,Conway,AR,72032,43
+O,Fredrick Lovette,13   Hiawatha Lane   ,Conway,AR,72032,63
+O,Jacob Mahan,17   Bud Chuck Lane   ,Conway,AR,72032,50
+O,Kerrie Herring,63   Oak Tree Circle   ,Conway,AR,72032,32
+R,Gladys Morris,35   Manna Lane   ,Conway,AR,72032,82
+R,Richard Chronister,79   Crooked Creek Road   ,Conway,AR,72032,56
+O,Stephen Ware,88   Shawnee Drive   ,Conway,AR,72032,54
+O,Clayton Reisbeck,417   Middle Road   ,Conway,AR,72032,31
+O,Marilyn Kelley,38   Oak Bowery Road   ,Conway,AR,72032,69
+O,Julie Sanders,110   Tower Road   ,Conway,AR,72032,30
+O,Brent Kelley,15   Pug Lane   ,Conway,AR,72032,61
+O,Chasty Parker,73   Crooked Creek Road   ,Conway,AR,72032,41
+O,Melissa Bryan,156   Grand Trunk Road   ,Conway,AR,72032,35
+O,Philip Helsel,14   Hilltop Lane   ,Vilonia,AR,72173,67
+O,Angela Hougan,534   Hwy 286  E  ,Conway,AR,72032,74
+O,Wanda McGuire,40   Martin Lane   ,Conway,AR,72032,84
+O,Bradley Grissom,196   Tower Road   ,Conway,AR,72032,29
+R,Craig Babb,58   Pruett Road   ,Conway,AR,72032,64
+R,Paula Babb,58   Pruett Road   ,Conway,AR,72032,61
+O,Duane Nesdahl,22   Hanford Lane   ,Conway,AR,72032,75
+O,Jon Jeu,34   Molly Drive   ,Conway,AR,72032,50
+O,Samantha Thomas,379   Middle Road   ,Conway,AR,72032,33
+O,Ashlie West,27   Clinton Road   ,Conway,AR,72032,33
+O,Erica Simon,70   Tower Road   ,Conway,AR,72032,37
+O,Lori French-Menges,5   Audubon Drive   ,Conway,AR,72032,65
+O,Linda Bonner,248   Rocky Point Road   ,Vilonia,AR,72173,81
+O,Charles Harper,71   Overland Park Road   ,Vilonia,AR,72173,80
+O,Ryan Shock,56   Bud Chuck Lane   ,Conway,AR,72032,28
+O,Clifton Bradford,30   Aztec Drive   ,Conway,AR,72032,56
+O,David Reedy,169   Otto Road   ,Vilonia,AR,72173,67
+O,Phyllis Burnham,257   Rocky Point Road   ,Vilonia,AR,72173,44
+O,Terry Sue McKee,603   Otto Road   ,Conway,AR,72032,65
+O,Christopher Carpenter,295   Rocky Point Road   ,Vilonia,AR,72173,27
+O,Larone Lowe,76   Haley Circle   ,Conway,AR,72032,27
+O,Brick Cullum,107   Grand Trunk Road   ,Conway,AR,72032,27
+D,Larry Lewis,16   Gerob Drive   ,Conway,AR,72032,74
+O,Curtiss Robinson,26   Overland Park Road   ,Vilonia,AR,72173,53
+O,Freddy Smith,293   Otto Road   ,Vilonia,AR,72173,69
+O,Payton Jolley,58   Herring Lane   ,Conway,AR,72032,27
+O,Deanna McCoy,247  W Lewisburg Road   ,Vilonia,AR,72173,51
+O,Vicky Hess,202   Clinton Road   ,Conway,AR,72032,64
+O,Heather Yates,22   Oak Tree Circle   ,Conway,AR,72032,46
+O,Bradley McBride,55   Oak Tree Circle   ,Conway,AR,72032,28
+O,Bruce Hendrix,588   Rocky Point Road   ,Conway,AR,72032,77
+O,Alexandria Shock,56   Bud Chuck Lane   ,Conway,AR,72032,26
+O,Bobbie Branscum,1   Gerob Drive   ,Conway,AR,72032,43
+O,Colleen Burk,300   Stone Mountain Road   ,Conway,AR,72032,65
+O,Terry Burk,300   Stone Mountain Road   ,Conway,AR,72032,66
+O,Jennifer Wilson,489   Beryl Road   ,Vilonia,AR,72173,49
+O,Kaitlin Lowe,76   Haley Circle   ,Conway,AR,72032,25
+O,Bruce Grissom,196   Tower Road   ,Conway,AR,72032,25
+O,Vanessa Lynch,420   Rocky Point Road   ,Vilonia,AR,72173,51
+O,Natalie Ware,88   Shawnee Drive   ,Conway,AR,72032,24
+25,,,,,,
+O,Bruce Grissom,196   Tower Road   ,Conway,AR,72032,25
+O,Vanessa Lynch,420   Rocky Point Road   ,Vilonia,AR,72173,51
+O,Natalie Ware,88   Shawnee Drive   ,Conway,AR,72032,24
